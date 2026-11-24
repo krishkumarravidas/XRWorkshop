@@ -34,7 +34,7 @@ Date: 2026-11-24
 | Locomotion | Done |
 | Testing on device, polish, docs | Open |
 
-## 3. Task split (proposed – adjust as you agree)
+## 3. Task split 
 
 | Owner | Tasks |
 |---|---|
@@ -42,14 +42,6 @@ Date: 2026-11-24
 | **Harsh** | Gameplay and scripting: add new prop behaviours (e.g. sounds on grab, collision effects), tune `PropAnimator` values per prop, extend the menu (new buttons or sliders), code cleanup and comments |
 | **Manya** | Art, UX and testing: improve arena look (lighting, materials, skybox), make the menu readable in VR (font size, spacing, colours), test on the Quest 3 and log bugs, take screenshots or video for the demo |
 
-### Suggested first tasks
-
-- [ ] Krish: push the current project to GitHub and share the repo access
-- [ ] Harsh: add a grab sound and a hit sound to props
-- [ ] Harsh: add a "reset speed/size only" button to the menu
-- [ ] Manya: lighting and skybox pass on the arena
-- [ ] Manya: on-device test checklist (grab, throw, menu, locomotion, bounds) with bug list
-- [ ] All: record a short demo and write the final presentation notes
 
 ## 4. Working rules
 
@@ -57,8 +49,3 @@ Date: 2026-11-24
 - Use branches (`feature/harsh-...`, `feature/manya-...`) and pull requests into `main`.
 - Do not commit `Library/`, `Temp/`, `Logs/`, `UserSettings/`.
 
-## 5. Open questions
-
-- Final deliverable and deadline for the workshop
-- Whether hand tracking must be supported or controllers only
-- Who owns presentation and demo
