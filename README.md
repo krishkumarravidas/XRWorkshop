@@ -75,8 +75,8 @@ Builds/Quest3/PropArena.apk    Local Quest 3 build (not tracked by default)
 
 ## Team
 
-See [docs/PROJECT_REPORT.md](docs/PROJECT_REPORT.md) for what has been done and the task split between
-**Krish**, **Harsh** and **Manya**.
+See [XRWorkshop_Project_Report.docx](XRWorkshop_Project_Report.docx) for what was done and who did what
+(**Krish** and **Harsh**).
 
 ## Contributing
 
